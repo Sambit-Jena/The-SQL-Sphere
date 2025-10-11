@@ -6,7 +6,7 @@ This repository contains a complete guide to SQL, covering everything from basic
 
 ### 📖 Quick Start
 
-1. **Download the complete guide**: [WHAT IS SQL.docx](resources/SQL-Comprehensive-Guide.docx)
+1. **Download the complete guide**: [WHAT IS SQL.docx](resources/WHAT IS SQL.docx)
 2. **Browse sample code**: Check the `/samples` directory for practical examples
 3. **Practice**: Use the provided SQL files to follow along
 
